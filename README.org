@@ -1,0 +1,15 @@
+#+TITLE: README.org
+
+* Setting up Google Clound Compute Engine
+  - Go to cloud.google.com
+  - choose console
+  - Create compute engine
+  - Generate ssh key  (putty ssh key gen)
+    + save the public key
+    + save the private key
+  - From Google cloud compute engine dash
+    + get the external ip
+    + Open putty, in ssh auth update private key
+    + put the external IP
+    + When the putty - ssh-name 
+
